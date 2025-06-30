@@ -3,8 +3,8 @@ class Lbranch < Formula
 
   desc "Git utility that shows recently checked-out branches in chronological order"
   homepage "https://github.com/dcchuck/lbranch"
-  url "https://files.pythonhosted.org/packages/source/l/lbranch/lbranch-0.1.2.tar.gz"
-  sha256 "cf7ea50c19751256e7f068be4a37d89deb32870ee0c64ff5b50ce12855030cce"
+  url "https://files.pythonhosted.org/packages/source/l/lbranch/lbranch-0.1.3.tar.gz"
+  sha256 "62f6b12cf5881c63b55597cd9c8527fb6e4e51ea061668a276cc52629a559115"
   license "MIT"
 
   depends_on "python3"

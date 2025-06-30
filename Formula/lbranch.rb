@@ -4,7 +4,7 @@ class Lbranch < Formula
   desc "Git utility that shows recently checked-out branches in chronological order"
   homepage "https://github.com/dcchuck/lbranch"
   url "https://files.pythonhosted.org/packages/source/l/lbranch/lbranch-0.1.4.tar.gz"
-  sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  sha256 "14b1617d14768e6f1bc710c20a2b014710b67623b313788ec92d886ff5b44671"
   license "MIT"
 
   depends_on "python3"
